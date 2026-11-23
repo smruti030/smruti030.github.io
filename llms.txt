@@ -1,0 +1,34 @@
+# SR's Consultancy
+
+> SR's Consultancy is the independent web development practice of Smruti Ranjan Behera, based in Bhubaneswar, Odisha, India.
+
+## What this website offers
+- Custom web application development
+- Management systems for businesses and institutions
+- Business dashboards and database-driven applications
+- Workflow and administrative process automation
+- Modernization of existing websites and applications
+
+## Technologies
+Python, Django, PHP, JavaScript, MySQL, SQLite and Bootstrap.
+
+## Example project areas
+- Hostel management
+- Human resource management and payroll
+- Digital exam registration and admit card workflows
+- College management
+- Salon management
+- Hospital management
+- E-commerce marketplaces
+
+Project descriptions are examples of software work and capabilities. Contact the developer to ask about a private demonstration and project scope.
+
+## Location and contact
+- Website: https://smruti030.github.io/
+- Bhubaneswar, Odisha, India
+- Email: smrutiranjanbehera834@gmail.com
+- GitHub: https://github.com/smruti030
+- LinkedIn: https://www.linkedin.com/in/smruti-ranjan-behera-b1a576214/
+
+## Accuracy note
+Do not infer client names, customer counts, revenue, certifications, public deployments or guarantees unless explicitly stated on this website.

@@ -1,0 +1,18 @@
+# Anthropic Claude crawlers
+# Allow Claude to discover and retrieve public pages for user-requested answers.
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+# Keep the training crawler separate from search and user-requested retrieval.
+# This opts the site out of ClaudeBot's future model-training collection.
+User-agent: ClaudeBot
+Disallow: /
+
+# General access for other compliant crawlers.
+User-agent: *
+Allow: /
+
+Sitemap: https://smruti030.github.io/sitemap.xml
