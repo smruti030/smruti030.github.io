@@ -1,6 +1,6 @@
 const $ = id => document.getElementById(id);
 const root = document.documentElement;
-const EMAIL = "smrutiranjanbehera834@gmail.com";
+const EMAIL = "smrutiranjan.work@gmail.com";
 
 /* Mobile navigation */
 const nav = $("nav");
